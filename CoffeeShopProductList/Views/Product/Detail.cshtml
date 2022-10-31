@@ -1,0 +1,11 @@
+﻿@model IEnumerable<Product>
+
+    <h2>Product</h2>
+    @foreach (Product p in Model)
+    {
+        <p>
+             ID: @p.Id
+             Price: $@p.Price
+             Category: @p.Category
+        </p>
+    }

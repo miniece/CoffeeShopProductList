@@ -1,0 +1,16 @@
+﻿@model IEnumerable<Product>
+
+<h2>The Shop</h2>
+
+
+@foreach (Product p in Model)
+{
+    <form asp-action="@p.Id" asp-controller="Detail"></form>
+    <div>
+        <p> ID: @p.Id</p>
+        <p> Name: @p.Name</p>
+        <p> Price: $@p.Price</p>
+        <p> Category: @p.Category</p>
+        <br />
+    </div>
+}

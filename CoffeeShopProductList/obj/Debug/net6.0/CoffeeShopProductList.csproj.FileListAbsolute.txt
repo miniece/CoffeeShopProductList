@@ -1,0 +1,8 @@
+C:\Users\xmini\Documents\BootcampLabs\CoffeeShopProductList\CoffeeShopProductList\obj\Debug\net6.0\CoffeeShopProductList.csproj.AssemblyReference.cache
+C:\Users\xmini\Documents\BootcampLabs\CoffeeShopProductList\CoffeeShopProductList\obj\Debug\net6.0\CoffeeShopProductList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xmini\Documents\BootcampLabs\CoffeeShopProductList\CoffeeShopProductList\obj\Debug\net6.0\CoffeeShopProductList.AssemblyInfoInputs.cache
+C:\Users\xmini\Documents\BootcampLabs\CoffeeShopProductList\CoffeeShopProductList\obj\Debug\net6.0\CoffeeShopProductList.AssemblyInfo.cs
+C:\Users\xmini\Documents\BootcampLabs\CoffeeShopProductList\CoffeeShopProductList\obj\Debug\net6.0\CoffeeShopProductList.csproj.CoreCompileInputs.cache
+C:\Users\xmini\Documents\BootcampLabs\CoffeeShopProductList\CoffeeShopProductList\obj\Debug\net6.0\CoffeeShopProductList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\xmini\Documents\BootcampLabs\CoffeeShopProductList\CoffeeShopProductList\obj\Debug\net6.0\CoffeeShopProductList.RazorAssemblyInfo.cache
+C:\Users\xmini\Documents\BootcampLabs\CoffeeShopProductList\CoffeeShopProductList\obj\Debug\net6.0\CoffeeShopProductList.RazorAssemblyInfo.cs
